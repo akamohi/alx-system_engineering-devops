@@ -1,2 +1,2 @@
-#!/bin/blash 
-ls -m
+#!/bin/bash
+ls -m 
